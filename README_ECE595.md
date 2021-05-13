@@ -1,5 +1,5 @@
 # Network Slicing ECE_595_final_project.n1 
-## Harsh Kumar & Sriram Thotakura
+## Harsh Kumar(UNM ID: 101910793) & Sriram Thotakura(UNM ID: 101881857)
 
 ### Project Goal
 
